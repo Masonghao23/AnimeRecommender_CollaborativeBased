@@ -1,0 +1,10 @@
+# Large datasets (download from Kaggle, see README)
+animelist.csv
+rating_complete.csv
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
